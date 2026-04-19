@@ -1,5 +1,5 @@
 # 🧬 NGS Genomics Analysis Pipeline
-**Part1**
+
 
 This notebook demonstrates an end-to-end NGS data analysis pipeline including:
 - Quality Control
