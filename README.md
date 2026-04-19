@@ -10,7 +10,7 @@ This notebook demonstrates an end-to-end NGS data analysis pipeline including:
 - Visualization
 
 
-🧬 NGS Genomics Analysis Pipeline
+
 
 **Part2**
 This notebook demonstrates an end-to-end NGS data analysis pipeline including:
