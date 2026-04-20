@@ -166,21 +166,7 @@ CHROM     = 'all'         # Use full reference genome
 
 ---
 
-## Interview Talking Points
 
-**On real data:**
-> "I ran the pipeline on SRR1518253 — a real human WES sample from the 1000 Genomes
-> Project. Using public data proves the pipeline works on genuine sequencing output."
-
-**On reproducibility:**
-> "The entire pipeline runs in Google Colab with no local setup. Anyone can reproduce
-> the results with just the SRA accession number and this notebook."
-
-**On tool selection:**
-> "I followed GATK Best Practices: BWA-MEM for alignment, Picard for duplicate
-> marking, HaplotypeCaller in standard mode for germline variant discovery."
-
----
 
 ## References
 
