@@ -1,9 +1,9 @@
-# 📥 NCBI Real Data Pipeline Skill
+# 📥 NCBI Real Data Pipeline 
 
 ## Overview
 
-This skill downloads real human WES data directly from NCBI SRA and runs a complete
-end-to-end variant calling pipeline — from raw reads to annotated, filtered variants
+The real human WES data is directly from NCBI SRA and runs a complete
+end-to-end variant calling pipeline, from raw reads to annotated, filtered variants
 with dashboards. No pre-downloaded data required. Designed to run entirely within
 Google Colab free tier (~30–45 minutes).
 
