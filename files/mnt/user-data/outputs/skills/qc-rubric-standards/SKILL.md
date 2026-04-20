@@ -1,8 +1,8 @@
-# 📐 QC Rubric Standards Skill
+# 📐 QC Rubric Standards
 
 ## Overview
 
-This skill defines the standardized Quality Control (QC) rubric framework used
+This  defines the standardized Quality Control (QC) rubric framework used
 across all NGS bioinformatics pipelines in this repository. Rubrics provide
 pass/fail criteria at each pipeline stage, ensuring analytical rigor, reproducibility,
 and consistency across datasets, samples, and research teams.
@@ -11,7 +11,7 @@ and consistency across datasets, samples, and research teams.
 
 ## What is a Bioinformatics Rubric?
 
-A rubric is a **structured evaluation framework** — a set of measurable criteria
+A rubric is a **structured evaluation framework**  a set of measurable criteria
 with defined thresholds used to assess whether a pipeline stage meets scientific
 and operational standards.
 
