@@ -14,7 +14,8 @@ This notebook demonstrates an end-to-end NGS data analysis pipeline including:
 A complete end-to-end Next-Generation Sequencing (NGS) pipeline built for learning, demonstration, and rapid prototyping. This project simulates sequencing data and walks through all major steps of genomic analysis, including quality control, trimming, alignment, variant calling, and annotation.
 
 **🚀 Features**
--- 📊 Simulated FASTQ data generation
+
+- 📊 Simulated FASTQ data generation
 - 🔍 Quality control (QC) analysis
 - ✂️ Read trimming (simulated)
 - 🧬 Sequence alignment (simulated)
