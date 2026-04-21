@@ -45,8 +45,7 @@ NGS-Genomics-Analysis-Pipeline/
 │   ├── variants/         # VCF files
 │   └── reports/          # Summary reports & plots
 │
-├── scripts/              # Python scripts for simulation & analysis
 ├── notebooks/            # Jupyter notebooks (demo pipeline)
 ├── README.md
-└── requirements.txt
+
 ```
