@@ -9,22 +9,28 @@ This notebook demonstrates an end-to-end NGS data analysis pipeline including:
 - Variant Annotation & Filtering
 - Visualization
 
-🧬 NGS Genomics Analysis Pipeline (Simulated Data)
+**🧬 NGS Genomics Analysis Pipeline (Simulated Data)**
 
 A complete end-to-end Next-Generation Sequencing (NGS) pipeline built for learning, demonstration, and rapid prototyping. This project simulates sequencing data and walks through all major steps of genomic analysis, including quality control, trimming, alignment, variant calling, and annotation.
 
-🚀 Features
-📊 Simulated FASTQ data generation
-🔍 Quality control (QC) analysis
-✂️ Read trimming (simulated)
-🧬 Sequence alignment (simulated)
-🧪 Variant calling (simulated SNPs/Indels)
-🧾 Variant filtering and annotation
-📈 Visualization of QC metrics
-👥 Multi-sample support
-🧱 Pipeline Overview
+**🚀 Features**
+-📊 Simulated FASTQ data generation
+-🔍 Quality control (QC) analysis
+-✂️ Read trimming (simulated)
+-🧬 Sequence alignment (simulated)
+-🧪 Variant calling (simulated SNPs/Indels)
+-🧾 Variant filtering and annotation
+-📈 Visualization of QC metrics
+-👥 Multi-sample support
+-🧱 Pipeline Overview
+
+```bash
 Simulated FASTQ → QC → Trimming → Alignment → Variant Calling → Annotation → Results
-📂 Project Structure
+```
+
+**📂 Project Structure**
+
+```bash
 NGS-Genomics-Analysis-Pipeline/
 │
 ├── data/
@@ -42,7 +48,8 @@ NGS-Genomics-Analysis-Pipeline/
 ├── notebooks/            # Jupyter notebooks (demo pipeline)
 ├── README.md
 └── requirements.txt
-⚙️ Installation
+```
+***⚙️ Installation***
 1️⃣ Clone Repository
 git clone https://github.com/your-username/NGS-Genomics-Analysis-Pipeline.git
 cd NGS-Genomics-Analysis-Pipeline
